@@ -1,0 +1,12 @@
+debug/addition.o
+debug/calculator.o
+debug/calculatorcontroller.o
+debug/division.o
+debug/ioccontainer.o
+debug/main.o
+debug/mainwindow.o
+debug/multiplication.o
+debug/operation.o
+debug/subtraction.o
+debug/moc_ioccontainer.o
+debug/moc_mainwindow.o

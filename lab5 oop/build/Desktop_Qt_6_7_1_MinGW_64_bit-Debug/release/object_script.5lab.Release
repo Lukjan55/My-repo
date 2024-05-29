@@ -1,0 +1,12 @@
+release/addition.o
+release/calculator.o
+release/calculatorcontroller.o
+release/division.o
+release/ioccontainer.o
+release/main.o
+release/mainwindow.o
+release/multiplication.o
+release/operation.o
+release/subtraction.o
+release/moc_ioccontainer.o
+release/moc_mainwindow.o
